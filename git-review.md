@@ -40,10 +40,10 @@
   * git push origin master
 
 * Add a remote to your repository
-  * git remote add origin master
+  * git remote add
 
 * Change an existing remote
-  * < your answer here >
+  * git remote set-url origin
 
 * Pull changes from a shared github repo to your local repo
   * < your answer here >
