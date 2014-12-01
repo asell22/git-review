@@ -46,16 +46,16 @@
   * git remote set-url origin
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * git pull
 
 * Show the history of a git repository
-  * < your answer here >
+  * git diff
 
 * Show a log of your commit history
-  * < your answer here >
+  * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git checkout
 
 #### You should understand the following:
 
